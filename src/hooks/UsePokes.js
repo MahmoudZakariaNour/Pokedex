@@ -11,7 +11,7 @@ export function UsePokes(url) {
                 setPokes(json)
                 // console.log(json);
             });
-    },[]);
+    });
 
     return pokes;
 }
