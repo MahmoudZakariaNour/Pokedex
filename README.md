@@ -1,4 +1,7 @@
+![into](/ReadMe/Pokedox.png)
+
 Pokédex
+
 Level 1
 Pokémon stats Pokémon
 Create a that shows a list of all Pokédex
