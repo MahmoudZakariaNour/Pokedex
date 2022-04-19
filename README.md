@@ -1,4 +1,4 @@
-![into](/ReadMe/Pokedox.png)
+![into](./ReadMe/Pokedox.png)
 
 Pokédex
 
