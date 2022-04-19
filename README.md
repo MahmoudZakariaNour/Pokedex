@@ -1,3 +1,10 @@
+Pokédex
+Level 1
+Pokémon stats Pokémon
+Create a that shows a list of all Pokédex
+ with links to of each .
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
